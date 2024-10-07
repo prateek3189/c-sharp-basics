@@ -12,3 +12,4 @@
 /Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/obj/Debug/net8.0/c-sharp-basics.pdb
 /Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/obj/Debug/net8.0/c-sharp-basics.genruntimeconfig.cache
 /Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/obj/Debug/net8.0/ref/c-sharp-basics.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/obj/Debug/net8.0/c-sharp-basics.sourcelink.json

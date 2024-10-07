@@ -1,0 +1,15 @@
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/non-premitives/bin/Debug/net8.0/non-premitives
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/non-premitives/bin/Debug/net8.0/non-premitives.deps.json
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/non-premitives/bin/Debug/net8.0/non-premitives.runtimeconfig.json
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/non-premitives/bin/Debug/net8.0/non-premitives.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/non-premitives/bin/Debug/net8.0/non-premitives.pdb
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/non-premitives/obj/Debug/net8.0/non-premitives.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/non-premitives/obj/Debug/net8.0/non-premitives.AssemblyInfoInputs.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/non-premitives/obj/Debug/net8.0/non-premitives.AssemblyInfo.cs
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/non-premitives/obj/Debug/net8.0/non-premitives.csproj.CoreCompileInputs.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/non-premitives/obj/Debug/net8.0/non-premitives.sourcelink.json
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/non-premitives/obj/Debug/net8.0/non-premitives.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/non-premitives/obj/Debug/net8.0/refint/non-premitives.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/non-premitives/obj/Debug/net8.0/non-premitives.pdb
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/non-premitives/obj/Debug/net8.0/non-premitives.genruntimeconfig.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/non-premitives/obj/Debug/net8.0/ref/non-premitives.dll
