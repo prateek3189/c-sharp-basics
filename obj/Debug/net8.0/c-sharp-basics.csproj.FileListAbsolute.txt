@@ -1,0 +1,14 @@
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/bin/Debug/net8.0/c-sharp-basics
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/bin/Debug/net8.0/c-sharp-basics.deps.json
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/bin/Debug/net8.0/c-sharp-basics.runtimeconfig.json
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/bin/Debug/net8.0/c-sharp-basics.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/bin/Debug/net8.0/c-sharp-basics.pdb
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/obj/Debug/net8.0/c-sharp-basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/obj/Debug/net8.0/c-sharp-basics.AssemblyInfoInputs.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/obj/Debug/net8.0/c-sharp-basics.AssemblyInfo.cs
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/obj/Debug/net8.0/c-sharp-basics.csproj.CoreCompileInputs.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/obj/Debug/net8.0/c-sharp-basics.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/obj/Debug/net8.0/refint/c-sharp-basics.dll
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/obj/Debug/net8.0/c-sharp-basics.pdb
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/obj/Debug/net8.0/c-sharp-basics.genruntimeconfig.cache
+/Users/prateek.magarde/Documents/vanilla-expo/expo/csharp/c-sharp-basics/obj/Debug/net8.0/ref/c-sharp-basics.dll
